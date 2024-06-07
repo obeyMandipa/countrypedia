@@ -1,0 +1,25 @@
+body{
+    padding: 10px;
+    align-items: center;
+
+}
+
+input{
+    height: 30px;
+    width: 320px;
+    padding: 10px;
+    font-size: 17px;
+}
+
+.search{
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    width: 600px;
+}
+
+button{
+    width: 150px;
+    border-radius: 10px;
+    font-weight: bold;
+}
